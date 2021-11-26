@@ -9,7 +9,7 @@
 
 <p align="center">
    
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlphabugX&theme=nord_dar"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlphabugX&theme=nord_dark&line_height=24"/>
   <img src="https://github-readme-stats.vercel.app/api?username=AlphabugX&theme=nord&count_private=true&show_icons=true&line_height=24" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlphabugX&theme=nord&layout=compact&langs_count=8"/>
   
