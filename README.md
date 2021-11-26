@@ -1,7 +1,7 @@
 ### Hi there 👋
-<p align="center">
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlphabugX&theme=nord_dark"/>
-</p>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlphabugX&theme=nord_dark"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlphabugX&theme=nord_dark"/>
