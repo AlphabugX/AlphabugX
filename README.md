@@ -7,7 +7,7 @@
 
 ✨ Longing for your little STAR~  
 
-<img src="https://github-profile-trophy.vercel.app/?username=AlphabugX&theme=nord&row=2&column=4" align="right"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AlphabugX&theme=nord&row=3&column=3" align="right"/>
 <img src="https://github-readme-stats.vercel.app/api?username=AlphabugX&theme=nord&count_private=true&show_icons=true&line_height=30"/>
 
 <!--
