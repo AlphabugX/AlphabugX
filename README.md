@@ -1,4 +1,4 @@
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlphabugX&theme=nord_dark"  align="right" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlphabugX&theme=nord_dark" align="right" />
 
 ### Hi there 👋
 
@@ -6,6 +6,10 @@
 - 📫 I’m Alphabug ...
 
 ✨ Longing for your little STAR~  
+
+<img src="https://github-profile-trophy.vercel.app/?username=AlphabugX&theme=nord&row=2&column=4" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AlphabugX&theme=nord&count_private=true&show_icons=true&line_height=30"/>
+
 <!--
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlphabugX&theme=nord_dark&line_height=24"/>
