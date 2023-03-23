@@ -1,6 +1,8 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlphabugX&theme=nord_dark" align="right" />
 
 ### Hi there 👋
+# Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/alphabugx/count.svg)
 
 **Readme**
 - 📫 I’m Alphabug ...
